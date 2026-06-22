@@ -1,0 +1,5 @@
+# 1. Instalar Flutter: https://flutter.dev/docs/get-started/install
+cd custo3d
+flutter pub get
+flutter build apk --release
+# APK em: build/app/outputs/flutter-apk/app-release.apk
